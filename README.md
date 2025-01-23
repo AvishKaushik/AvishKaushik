@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Avish Kaushik</h1>
 <p align="center">
-  <a href="https://avishkaushik.tech">Website</a> |
+  <a href="https://avishkaushik.tech">Portfolio</a> |
   <a href="https://www.linkedin.com/in/avish-kaushik-358757197/">LinkedIn</a> |
   <a href="https://github.com/AvishKaushik">GitHub</a>
 </p>
