@@ -11,7 +11,7 @@
 
 I’m a **Software Engineer** with a background in **Java, C++, Python**, and a passion for developing impactful solutions. Currently pursuing an **M.Sc. in Computer Science** at The George Washington University, I’ve worked with cloud migrations, legacy decommissioning, and system optimization to improve efficiency and user satisfaction.
 
-- 🌐 Website: [avishkaushik.tech](https://avish.dev)
+- 🌐 Website: [avish.dev](https://avish.dev)
 - 💼 Open to collaboration in projects related to full-stack development, cloud solutions, and system architecture
 - 📫 Reach me at: avish.kaushik20@gmail.com
 
