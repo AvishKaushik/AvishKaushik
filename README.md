@@ -40,7 +40,7 @@ I’m a **Software Engineer** with a background in **Java, C++, Python**, and a 
 ---
 
 ### 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AvishKaushik)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AvishKaushik?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
