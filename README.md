@@ -40,14 +40,7 @@ I’m a **Software Engineer** with a background in **Java, C++, Python**, and a 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvishKaushik&show_icons=true" alt="Avish's GitHub stats" width="46%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishKaushik" width="49%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishKaushik&layout=compact" width="40%" alt="Top Languages" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AvishKaushik" alt="GitHub Streak" /></a>
 
 ---
 
