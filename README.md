@@ -52,6 +52,6 @@ I’m a **Software Engineer** with a background in **Java, C++, Python**, and a 
 ---
 
 ### 📫 Let's Connect!
-If you share a passion for full-stack development, cloud solutions, or you’re just a tech enthusiast, let’s connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/avish-kaushik-358757197/) or check out my [website](https://avishkaushik.tech) for more.
+If you share a passion for full-stack development, cloud solutions, or you’re just a tech enthusiast, let’s connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/avish-kaushik-358757197/) or check out my [website](https://avish.dev) for more.
 
 ![Thanks for Visiting!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
