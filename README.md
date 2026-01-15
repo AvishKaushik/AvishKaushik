@@ -40,9 +40,9 @@ I’m a **Software Engineer** with a background in **Java, C++, Python**, and a 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AvishKaushik?cardType=level&theme=vue&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
-</p>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AvishKaushik?cardType=level&theme=vue&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ---
 
 ### 🧩 Projects & Contributions
